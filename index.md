@@ -8,10 +8,6 @@
 
 ### Reconstruction
 <div class="figure">
-
-    <p style="text-align: center; font-size: 20px"> Reconstruction</p>
-
-
     <div align="left">
        <div class="row">
            <div class="column"> 
@@ -53,6 +49,7 @@
         </audio>
        
     </div>
+  </div>
 <br/>
 #LATENT SPACE
 
