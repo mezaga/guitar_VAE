@@ -1,5 +1,4 @@
 # VAE GUITAR
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![latent_space3D](https://user-images.githubusercontent.com/31640735/170166020-c0ea065d-5237-4534-982e-00393a2cc890.png)
 
