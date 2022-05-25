@@ -73,35 +73,35 @@ From all the possible notes of an electric guitar processed by ten different eff
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_DigitalDlay.wav">
+            <source src="folder/inter_1.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_bluesdriver.wav">
+            <source src="folder/inter_2.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_chorus.wav">
+            <source src="folder/inter_3.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_clean.wav">
+            <source src="folder/inter_4.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_flanger.wav">
+            <source src="folder/inter_5.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_phaser.wav">
+            <source src="folder/inter_6.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_rat.wav">
+            <source src="folder/inter_7.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_sweetEcho.wav">
+            <source src="folder/inter_8.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_tapeEcho.wav">
+            <source src="folder/inter_9.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_tubescreamer.wav">
+            <source src="folder/inter_10.wav">
         </audio>
 </div>
 </div>
