@@ -114,7 +114,7 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 
 <div class="figure">
-    <div align ="center">
+    <div align ="left">
 
 <audio controls style="width: 30%; padding: 0.5%">
             <source src="folder/inter_8.wav">
@@ -127,7 +127,7 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 
 <div class="figure">
-    <div align ="center">
+    <div align ="left">
         <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/1-0ChorusBluesParallel.wav">
         </audio>
