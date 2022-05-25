@@ -10,12 +10,11 @@
 
 
     <div align="middle">
-        <div>
+       
         <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
-          </div>
-        <audio controls style="width: 10.5%; padding: 0.5%">
+        <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio>
         <audio controls style="width: 10.5%; padding: 0.5%">
