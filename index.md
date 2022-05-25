@@ -8,8 +8,9 @@
 ![Guitarra](https://user-images.githubusercontent.com/31640735/170167851-d74f1017-5f94-45d9-8f28-78c10a3f8668.JPG)
 
 ### Reconstruction
+
 <div class="figure">
-    <div align="left">
+    <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
@@ -45,7 +46,6 @@
 </div>
 </div>
 
-
-##LATENT SPACE
+### Latent Space
 
 
