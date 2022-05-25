@@ -1,4 +1,4 @@
-# El encabezado más largo
+# VAE GUITAR
 ![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
@@ -10,10 +10,11 @@
 
 
     <div align="middle">
-        
+        <div>
         <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
+          </div>
         <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio>
