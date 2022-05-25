@@ -9,8 +9,8 @@
 
 ### Reconstruction
 <div class="figure">
-    <div align="left">
-      
+    <div align="center">
+
         <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
@@ -46,9 +46,8 @@
         <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_tubescreamer.wav">
         </audio>
-       
-    </div>
-  </div>
+</div>
+</div>
 
 
 ##LATENT SPACE
