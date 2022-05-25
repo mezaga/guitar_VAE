@@ -108,3 +108,19 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ### Resultados
 
+![Captura de Pantalla 2022-05-25 a la(s) 12 40 48](https://user-images.githubusercontent.com/31640735/170329171-7faf0922-543f-4d64-b1fc-334e172c5fb5.png)
+
+![Captura de Pantalla 2022-05-25 a la(s) 12 41 07](https://user-images.githubusercontent.com/31640735/170329190-55cc36d9-80c4-4d5a-a4fd-a5039d4d68b6.png)
+
+
+<div class="figure">
+    <div align ="left">
+
+<audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/inter_8.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/inter_9.wav">
+        </audio>
+</div>
+</div>
