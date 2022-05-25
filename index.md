@@ -9,7 +9,7 @@
 
 ### Reconstruction
 <div class="figure">
-    <div align="center">
+    <div align="left">
 
         <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
