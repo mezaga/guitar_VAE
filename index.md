@@ -124,3 +124,22 @@ From all the possible notes of an electric guitar processed by ten different eff
         </audio>
 </div>
 </div>
+
+
+<div class="figure">
+    <div align ="left">
+         En paralelo
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/1-0ChorusBluesParallel.wav">
+        </audio>
+        Chorus - Blues Driver
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/BD-CHChorusBluesParallel.wav">
+        </audio>
+        Blues Driver - Chorus
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/CH-BDChorusBluesParallel.wav">
+        </audio>
+        
+        </div>
+</div>
