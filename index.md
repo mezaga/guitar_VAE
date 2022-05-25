@@ -61,3 +61,41 @@ From all the possible notes of an electric guitar processed by ten different eff
 ![latent_space3D](https://user-images.githubusercontent.com/31640735/170166020-c0ea065d-5237-4534-982e-00393a2cc890.png)
 
 ### Latent Space Interpolations
+
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_DigitalDlay.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_bluesdriver.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_chorus.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_clean.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_flanger.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_phaser.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_rat.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_sweetEcho.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_tapeEcho.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/rec_tubescreamer.wav">
+        </audio>
+</div>
+</div>
