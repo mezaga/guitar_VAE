@@ -6,14 +6,14 @@
 ### Reconstruction
 <div class="figure">
 
-    <p style="text-align: center; font-size: 20px">Metaparameter \(z_{5}\)</p>
-    <img src="audio/meta_parameters/z5/z5.png" width="100%">
+    <p style="text-align: center; font-size: 20px"> Reconstruction</p>
+
 
     <div align="middle">
         
         <audio controls style="width: 10.5%; padding: 0.5%">
-            <source src="folder/rec_DigitalDlay.wav">
-        </audio><br><!--  
+            <source src="folder/rec_DigitalDlay.wav"><br>
+        </audio><!--  
         --><audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio><!--
