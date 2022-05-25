@@ -13,10 +13,17 @@
 
 
     <div align="left">
-       
-        <audio controls style="width: 50%; padding: 0.5%">
+       <div class="row">
+           <div class="column"> 
+               <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
+           </div>
+           <div class="column"> <audio controls style="width: 50%; padding: 0.5%">
+            <source src="folder/rec_DigitalDlay.wav">
+        </audio></div>
+        </div>
+        
         <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio>
