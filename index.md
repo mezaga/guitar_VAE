@@ -38,7 +38,7 @@
             <source src="folder/rec_rat.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="afolder/rec_sweetEcho.wav">
+            <source src="folder/rec_sweetEcho.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_tapeEcho.wav">
