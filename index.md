@@ -10,10 +10,10 @@
     <img src="audio/meta_parameters/z5/z5.png" width="100%">
 
     <div align="middle">
-        <br>
+        
         <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
-        </audio><!--
+        </audio><br><!--  
         --><audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio><!--
