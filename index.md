@@ -1,7 +1,10 @@
+<img src="https://user-images.githubusercontent.com/31640735/170167887-bce3451d-f183-4b66-a041-7c5dd96cbab4.png" alt="drawing" width="1000"/>
+
 # VAE GUITAR
 
 ![latent_space3D](https://user-images.githubusercontent.com/31640735/170166020-c0ea065d-5237-4534-982e-00393a2cc890.png)
 
+![Guitarra](https://user-images.githubusercontent.com/31640735/170167851-d74f1017-5f94-45d9-8f28-78c10a3f8668.JPG)
 
 ### Reconstruction
 <div class="figure">
