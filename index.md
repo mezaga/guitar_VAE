@@ -12,27 +12,27 @@
     <div align="middle">
         
         <audio controls style="width: 10.5%; padding: 0.5%">
-            <source src="folder/rec_DigitalDlay.wav"><br>
-        </audio><!--  
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+            <source src="folder/rec_DigitalDlay.wav">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
-        </audio><!--
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_chorus.wav">
-        </audio><!--
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_clean.wav">
-        </audio><!--
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_flanger.wav">
-        </audio><!--
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_phaser.wav">
-        </audio><!--
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="folder/rec_rat.wav">
-        </audio><!--
-        --><audio controls style="width: 10.5%; padding: 0.5%">
+        </audio>
+        <audio controls style="width: 10.5%; padding: 0.5%">
             <source src="afolder/rec_sweetEcho.wav">
         </audio>
     </div>">
