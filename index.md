@@ -9,21 +9,19 @@
 ### Reconstruction
 <div class="figure">
     <div align="left">
-       <div class="row">
-           <div class="column"> 
-               <audio controls style="width: 50%; padding: 0.5%">
+      
+        <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
-           </div>
-           <div class="column"> <audio controls style="width: 50%; padding: 0.5%">
+      
+        <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
-        </audio></div>
-        </div>
+        </audio>
         
-        <audio controls style="width: 50%; padding: 0.5%">
+        <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio>
-        <audio controls style="width: 50%; padding: 0.5%">
+        <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_chorus.wav">
         </audio>
         <audio controls style="width: 50%; padding: 0.5%">
