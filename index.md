@@ -9,7 +9,7 @@
     <p style="text-align: center; font-size: 20px"> Reconstruction</p>
 
 
-    <div align="middle">
+    <div align="left">
        
         <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
@@ -35,10 +35,10 @@
         <audio controls style="width: 50%; padding: 0.5%">
             <source src="afolder/rec_sweetEcho.wav">
         </audio>
-        --><audio controls style="width: 50%; padding: 0.5%">
+        <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_tapeEcho.wav">
         </audio>
-        --><audio controls style="width: 50%; padding: 0.5%">
+        <audio controls style="width: 50%; padding: 0.5%">
             <source src="folder/rec_tubescreamer.wav">
         </audio>
        
