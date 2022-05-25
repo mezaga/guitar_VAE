@@ -29,7 +29,7 @@ From all the possible notes of an electric guitar processed by ten different eff
         
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
-        </audio>
+        </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_chorus.wav">
         </audio>
