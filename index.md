@@ -1,3 +1,4 @@
+
 <img src="https://user-images.githubusercontent.com/31640735/170167887-bce3451d-f183-4b66-a041-7c5dd96cbab4.png" alt="drawing" width="1000"/>
 
 # VAE GUITAR
