@@ -62,6 +62,12 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ### Latent Space Interpolations
 
+![latent_interpolation](https://user-images.githubusercontent.com/31640735/170180602-5aab303a-35c3-4504-9f6a-371ca5448c8a.png)
+
+
+![interpolation_latentspace_stft](https://user-images.githubusercontent.com/31640735/170180263-49e1e121-0350-4dcf-a731-34eeb23f1d2d.png)
+
+
 
 <div class="figure">
     <div align ="left">
