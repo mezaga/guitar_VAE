@@ -11,39 +11,39 @@
 <div class="figure">
     <div align="left">
       
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
       
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_DigitalDlay.wav">
         </audio>
         
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_bluesdriver.wav">
         </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_chorus.wav">
         </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_clean.wav">
         </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_flanger.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_phaser.wav">
         </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_rat.wav">
         </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_sweetEcho.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/rec_tapeEcho.wav">
         </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
+        <audio controls style="width: 25%; padding: 0.5%">
             <source src="folder/rec_tubescreamer.wav">
         </audio>
        
