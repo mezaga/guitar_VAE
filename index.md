@@ -9,25 +9,24 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ### Clean
 ### Bridge, Middle Bridge, Middle, Middle Neck and Neck
-
 <div class="figure">
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Bridge_6-0.wav">
+            <source src="folder/dataset_examples/Bridge_6-0.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/bridge_Middle_6-0.wav">
+            <source src="folder/dataset_examples/bridge_Middle_6-0.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/middle_6-0.wav">
+            <source src="folder/dataset_examples/middle_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Middle_Neck6-0.wav">
+            <source src="folder/dataset_examples/Middle_Neck6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Neck_6-0.wav">
+            <source src="folder/dataset_examples/Neck_6-0.wav">
         </audio>
 </div>
 </div>
@@ -52,80 +51,79 @@ From all the possible notes of an electric guitar processed by ten different eff
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/TubeScreamer_6-0.wav">
+            <source src="folder/dataset_examples/TubeScreamer_6-0.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/BluesDriver_6-0.wav">
+            <source src="folder/dataset_examples/BluesDriver_6-0.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/RAT_6-0.wav">
+            <source src="folder/dataset_examples/RAT_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Chorus_6-0.wav">
+            <source src="folder/dataset_examples/Chorus_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Phaser_6-0.wav">
+            <source src="folder/dataset_examples/Phaser_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Flanger_6-0.wav">
+            <source src="folder/dataset_examples/Flanger_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Tape_echo6-0.wav">
+            <source src="folder/dataset_examples/Tape_echo6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/SweepEcho_6-0.wav">
+            <source src="folder/dataset_examples/SweepEcho_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/DigitalDlay6-0.wav">
+            <source src="folder/dataset_examples/DigitalDlay6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Hall_Reverb6-0.wav">
+            <source src="folder/dataset_examples/Hall_Reverb6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Plate_Reverb6-0.wav">
+            <source src="folder/dataset_examples/Plate_Reverb6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/Spring_Reverb_6-0.wav">
+            <source src="folder/dataset_examples/Spring_Reverb_6-0.wav">
         </audio>
 </div>
 </div>
 
 ### Reconstruction
-
 <div class="figure">
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_DigitalDlay.wav">
+            <source src="folder/reconstruction/rec_DigitalDlay.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_bluesdriver.wav">
+            <source src="folder/reconstruction/rec_bluesdriver.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_chorus.wav">
+            <source src="folder/reconstruction/rec_chorus.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_clean.wav">
+            <source src="folder/reconstruction/rec_clean.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_flanger.wav">
+            <source src="folder/reconstruction/rec_flanger.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_phaser.wav">
+            <source src="folder/reconstruction/rec_phaser.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_rat.wav">
+            <source src="folder/reconstruction/rec_rat.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_sweetEcho.wav">
+            <source src="folder/reconstruction/rec_sweetEcho.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_tapeEcho.wav">
+            <source src="folder/reconstruction/rec_tapeEcho.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/rec_tubescreamer.wav">
+            <source src="folder/reconstruction/rec_tubescreamer.wav">
         </audio>
 </div>
 </div>
