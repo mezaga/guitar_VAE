@@ -7,16 +7,63 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ### FXs
 
-1. Blue Driver
-2. Chorus
-3. Clean
-4. Digital Delay
-5. Flanger
-6. Phaser
-7. RAT
+1. TubeScreamer
+2. BluesDriver
+3. RAT
+4. Chorus
+5. Phaser
+6. Flanger
+7. Tape Echo
 8. Sweep Echo
-9. Tape Echo
-10. Tube Screamer
+9. Digital Delay
+10. Hall Reverb
+11. Plate Reverb
+12. Spring Reverb
+
+
+### DATASET
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/TubeScreamer_6-0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/folder/BluesDriver_6-0.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/RAT_6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/folder/Chorus_6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/folder/Phaser_6-0.wav>
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Flanger_6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Tape_echo6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/SweepEcho_6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/DigitalDlay6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Hall_Reverb6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Plate_Reverb6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Spring_Reverb_6-0.wav">
+        </audio>
+</div>
+</div>
 
 ### Reconstruction
 
