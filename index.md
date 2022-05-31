@@ -5,6 +5,34 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ![Guitarra](https://user-images.githubusercontent.com/31640735/170167851-d74f1017-5f94-45d9-8f28-78c10a3f8668.JPG)
 
+## DATASET
+
+
+###Clean
+####Bridge, Middle Bridge, Middle, Middle Neck and Neck
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Bridge_6-0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/bridge_Middle_6-0.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/middle_6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Middle_Neck6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/Neck_6-0.wav">
+        </audio>
+</div>
+</div>
+
 ### FXs
 
 1. TubeScreamer
@@ -21,7 +49,6 @@ From all the possible notes of an electric guitar processed by ten different eff
 12. Spring Reverb
 
 
-### DATASET
 <div class="figure">
     <div align ="left">
 
@@ -39,7 +66,7 @@ From all the possible notes of an electric guitar processed by ten different eff
             <source src="folder/folder/Chorus_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/folder/Phaser_6-0.wav>
+            <source src="folder/folder/Phaser_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/Flanger_6-0.wav">
