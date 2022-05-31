@@ -7,9 +7,8 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ## DATASET
 
-
-###Clean
-####Bridge, Middle Bridge, Middle, Middle Neck and Neck
+### Clean
+### Bridge, Middle Bridge, Middle, Middle Neck and Neck
 
 <div class="figure">
     <div align ="left">
@@ -57,16 +56,16 @@ From all the possible notes of an electric guitar processed by ten different eff
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/folder/BluesDriver_6-0.wav">
+            <source src="folder/BluesDriver_6-0.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/RAT_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/folder/Chorus_6-0.wav">
+            <source src="folder/Chorus_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/folder/Phaser_6-0.wav">
+            <source src="folder/Phaser_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="folder/Flanger_6-0.wav">
