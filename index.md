@@ -352,35 +352,35 @@ Real Fx
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/0-CL-6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/0-CL-6-0.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/0-CL-6-12.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/0-CL-6-12.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/1-CL-BD-6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/1-CL-BD-6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/1-CL-BD-6-12.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/1-CL-BD-6-12.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/2-BD-FL-6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/2-BD-FL-6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/2-BD-FL-6-12.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/2-BD-FL-6-12.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/3-FL-DL-6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/3-FL-DL-6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/3-FL-DL-6-12.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/3-FL-DL-6-12.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/4-DL-RV-6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/4-DL-RV-6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/4-DL-RV-6-12.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/analog_fx/4-DL-RV-6-12.wav">
         </audio>
 </div>
 </div>
@@ -433,3 +433,5 @@ One Octave Interpolation
         </audio>
 </div>
 </div>
+
+### Euclidean Space
