@@ -434,7 +434,7 @@ One Octave Interpolation
 </div>
 </div>
 
-### Euclidean Space
+### Euclidean Neighborhood
 
 
 Blues Driver - Chorus
@@ -572,3 +572,43 @@ E2 Nearness
         </audio>
 </div>
 </div>
+
+Fx-Chain
+
+![waveforms_1-6-0](https://user-images.githubusercontent.com/92285232/171498552-07f966e1-5229-4533-aed3-e15ea253a94b.png)
+
+<div class="figure">
+    <div align ="left">
+
+<audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/fx-chain-1-6-0/FX-Chain-1-6-0_0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/fx-chain-1-6-0/FX-Chain-1-6-0_1.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/fx-chain-1-6-0/FX-Chain-1-6-0_2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/fx-chain-1-6-0/FX-Chain-1-6-0_3.wav">
+        </audio>
+         <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/fx-chain-1-6-0/FX-Chain-1-6-0_4.wav">
+        </audio>
+         <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/fx-chain-1-6-0/FX-Chain-1-6-0_5.wav">
+        </audio>
+        
+</div>
+</div>
+
+
+Real Chain
+
+<div class="figure">
+    <div align ="left">
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/FXChain1-6-0.wav">
+        </audio>
+    </div>
+    </div>
