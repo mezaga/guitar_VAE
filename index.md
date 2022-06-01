@@ -121,10 +121,10 @@ Reconstruction
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Phaser.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstructionFlanger.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Flanger.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Tape_echo.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Tape%20Echo.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Sweep%20Echo.wav">
@@ -133,10 +133,10 @@ Reconstruction
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Digital%20Delay.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Hal%20Reverb.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Hall%20Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Plate_Reverb.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_PlateReverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Spring%20Reverb.wav">
