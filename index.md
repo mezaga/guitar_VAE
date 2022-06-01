@@ -143,3 +143,54 @@ Reconstruction
         </audio>
 </div>
 </div>
+
+### Space Interpolations
+
+![blues-Chorus](https://user-images.githubusercontent.com/92285232/171484534-97d40a55-1fbe-4c4e-9eff-34a7c8d9fc4e.png)
+
+![fft_Blues-Chorus](https://user-images.githubusercontent.com/92285232/171484589-6e415eb8-f21a-4bd4-8dc0-ef8b6fef5556.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus1.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus3.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus4.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus5.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus6.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus7.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus8.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus9.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus10.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_BluesDriverChorus11.wav">
+        </audio>
+</div>
+</div>
+
+
