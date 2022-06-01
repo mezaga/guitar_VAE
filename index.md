@@ -243,3 +243,52 @@ Blues Driver - Flanger
         </audio>
 </div>
 </div>
+
+Flanger - Sweep Echo
+
+![Flanger-SweepEcho](https://user-images.githubusercontent.com/92285232/171487691-59ce39f6-f763-45ac-9869-c073d95b4da3.png)
+
+![fft_Flanger-SweepEcho](https://user-images.githubusercontent.com/92285232/171487757-431ff09a-159c-409f-b572-fd22196cb90f.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo1.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo3.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo4.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo5.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo6.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo7.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo8.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo9.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo10.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo11.wav">
+        </audio>
+</div>
+</div>
