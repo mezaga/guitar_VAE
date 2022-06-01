@@ -105,41 +105,41 @@ Reconstruction
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/TubeScreamer_6-0.wav">
+            <source src="final_deconstruction/reconstruction_TubeScreamer.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/BluesDriver_6-0.wav">
+            <source src="final_deconstruction/reconstruction_BluesDriver.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/RAT_6-0.wav">
+            <source src="final_deconstruction/reconstruction_RAT.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Chorus_6-0.wav">
+            <source src="final_deconstruction/reconstruction_Chorus.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Phaser_6-0.wav">
+            <source src="final_deconstruction/reconstruction_Phaser.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Flanger_6-0.wav">
+            <source src="final_deconstruction/reconstructionFlanger.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Tape_echo6-0.wav">
+            <source src="final_deconstruction/reconstruction_Tape_echo.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/SweepEcho_6-0.wav">
+            <source src="final_deconstruction/reconstruction_SweepEcho.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/DigitalDlay6-0.wav">
+            <source src="final_deconstruction/reconstruction_DigitalDlay.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Hall_Reverb6-0.wav">
+            <source src="final_deconstruction/reconstruction_Hall_Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Plate_Reverb6-0.wav">
+            <source src="final_deconstruction/reconstruction_Plate_Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Spring_Reverb_6-0.wav">
+            <source src="final_deconstruction/reconstruction_Spring_Reverb.wav">
         </audio>
 </div>
 </div>
