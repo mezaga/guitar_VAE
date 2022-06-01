@@ -7,6 +7,8 @@ From all the possible notes of an electric guitar processed by ten different eff
 
 ## DATASET
 
+We also introduce GUITAR SET a dataset of 8970 real guitar sounds that meticulously explores all the possible notes in a standard tuning electric guitar with different pickup configurations passing through a collection of 12 different analog guitar effects.
+
 ### Clean
 ### Bridge, Middle Bridge, Middle, Middle Neck and Neck
 <div class="figure">
