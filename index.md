@@ -146,11 +146,11 @@ Reconstruction
 
 ### Space Interpolations
 
+Clean - Blues Driver
+
 ![clean-BluesDriver](https://user-images.githubusercontent.com/92285232/171486039-09e8293d-fada-455e-a4d3-5c392230b21f.png)
 
 ![fft_clean-BluesDriver](https://user-images.githubusercontent.com/92285232/171486067-f59d62ee-fa2d-4101-b46d-6110e0a09334.png)
-
-Clean - Blues Driver
 
 <div class="figure">
     <div align ="left">
@@ -256,7 +256,7 @@ Flanger - Sweep Echo
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo0.wav">
         </audio>
-        
+   
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo1.wav">
         </audio> 
@@ -289,6 +289,55 @@ Flanger - Sweep Echo
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Flanger-SweepEcho/interpolation_FlangerSweep%20Echo11.wav">
+        </audio>
+</div>
+</div>
+
+Sweep Echo - Hall Reverb
+
+![SweepEcho-Hall](https://user-images.githubusercontent.com/92285232/171488477-d150a551-3fd4-4606-ba72-e9c12a58df82.png)
+
+![fft_SweeEcho-Hall](https://user-images.githubusercontent.com/92285232/171488508-3b07d9bd-6cdb-4ff1-a101-4ed57fbc3927.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb1.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb3.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb4.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb5.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb6.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb7.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb8.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb9.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb10.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/SweepEcho-HallReverb/interpolation_Sweep%20EchoHall%20Reverb11.wav">
         </audio>
 </div>
 </div>
