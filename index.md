@@ -466,7 +466,58 @@ Blues Driver - Chorus
 </div>
 </div>
 
+Chorus-BluesDriver
+
+![waveforms_CH-BD-6](https://user-images.githubusercontent.com/92285232/171496935-7fff14fc-0e1c-49b7-92e3-1c5a927df0b3.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6/CH-BD-6-00.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6/CH-BD-6-01.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6/CH-BD-6-02.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6/CH-BD-6-03.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6/CH-BD-6-04.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6/CH-BD-6-05.wav">
+        </audio>
+        
+</div>
+</div>
+
+
+REAL FX
+
+![waveformsPasados](https://user-images.githubusercontent.com/92285232/171496164-b700d098-4785-4978-8903-aa5e10d36da7.png)
+![spectrogramsPasados](https://user-images.githubusercontent.com/92285232/171496207-44a1a8c2-b1e2-4107-899b-5a57238fb312.png)
+
+
+<div class="figure">
+    <div align ="left">
 
 <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6-0.wav">
         </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6-12.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6-12.wav">
+        </audio>
+        
+</div>
+</div>
