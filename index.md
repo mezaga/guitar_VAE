@@ -402,28 +402,28 @@ One Octave Interpolation
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E31.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E32.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E32.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E33.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E33.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E34.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E34.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E35.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E35.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E36.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E36.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E37.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E37.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E38.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E38.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E39.wav.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E39.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E310.wav">
@@ -435,3 +435,38 @@ One Octave Interpolation
 </div>
 
 ### Euclidean Space
+
+
+Blues Driver - Chorus
+![waveforms_BD-CH](https://user-images.githubusercontent.com/92285232/171494945-e023212a-fb90-4ca1-9b32-beff7e3c8b5c.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6/BD-CH-6-0_0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6/BD-CH-6-0_1.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6/BD-CH-6-0_2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6/BD-CH-6-0_3.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6/BD-CH-6-0_4.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6/BD-CH-6-0_5.wav">
+        </audio>
+        
+</div>
+</div>
+
+
+<audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/BD-CH-6-0.wav">
+        </audio>
