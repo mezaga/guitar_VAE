@@ -1,7 +1,7 @@
 
 # VAE GUITAR
 
-From all the possible notes of an electric guitar processed by ten different effects and different configurations, we employed a Variational Autoencoder to generate audio from the resultant latent space and compare them with a similar analog fx chain. The intention of the present research is to sum up to the outgoing interest to explore the relationships between deep learning models and timbrical variations. The main goal of this research is to propose another perspective of linking analog guitar effects for timbre generation outside the active emulation/recognition studies.
+From all the possible notes of an electric guitar processed by twelve different effects and different configurations, we employed a Variational Autoencoder to generate audio from the resultant latent space and compare them with a similar analog fx chain. The intention of the present research is to sum up to the outgoing interest to explore the relationships between deep learning models and timbrical variations. The main goal of this research is to propose another perspective of linking analog guitar effects for timbre generation outside the active emulation/recognition studies.
 
 ![Guitarra](https://user-images.githubusercontent.com/31640735/170167851-d74f1017-5f94-45d9-8f28-78c10a3f8668.JPG)
 
@@ -519,5 +519,56 @@ REAL FX
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/CH-BD-6-12.wav">
         </audio>
         
+</div>
+</div>
+
+E2 Nearness
+
+![E2_near](https://user-images.githubusercontent.com/92285232/171497441-9aa6ba90-a510-4190-84ea-1914270343d5.png)
+![fft_E2](https://user-images.githubusercontent.com/92285232/171497487-23ea3aaa-0c01-4d90-93bc-f1b1bd7b6949.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_1.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_3.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_4.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_5.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_6.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_7.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_8.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_9.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_10.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_11.wav">
+        </audio>
+           <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/euclidean_distance/E2_near/E2_near_12.wav">
+        </audio>
 </div>
 </div>
