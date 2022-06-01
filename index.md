@@ -146,6 +146,53 @@ Reconstruction
 
 ### Space Interpolations
 
+![clean-BluesDriver](https://user-images.githubusercontent.com/92285232/171486039-09e8293d-fada-455e-a4d3-5c392230b21f.png)
+
+![fft_clean-BluesDriver](https://user-images.githubusercontent.com/92285232/171486067-f59d62ee-fa2d-4101-b46d-6110e0a09334.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver1.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver2.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver3.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver5.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver6.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_exploration/Blues-Chorus/interpolation_CleanBluesDriver.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver7.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver8.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver9.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver10.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/space_explorationclean-blues/interpolation_CleanBluesDriver11.wav">
+        </audio>
+</div>
+</div>
+
 ![blues-Chorus](https://user-images.githubusercontent.com/92285232/171484534-97d40a55-1fbe-4c4e-9eff-34a7c8d9fc4e.png)
 
 ![fft_Blues-Chorus](https://user-images.githubusercontent.com/92285232/171484589-6e415eb8-f21a-4bd4-8dc0-ef8b6fef5556.png)
