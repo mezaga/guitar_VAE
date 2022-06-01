@@ -15,20 +15,20 @@ We also introduce GUITAR SET a dataset of 8970 real guitar sounds that meticulou
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Bridge_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Bridge_6-0.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/bridge_Middle_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/bridge_Middle_6-0.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/middle_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/middle_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Middle_Neck6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Middle_Neck6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Neck_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Neck_6-0.wav">
         </audio>
 </div>
 </div>
@@ -53,41 +53,41 @@ We also introduce GUITAR SET a dataset of 8970 real guitar sounds that meticulou
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/TubeScreamer_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/TubeScreamer_6-0.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/BluesDriver_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/BluesDriver_6-0.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/RAT_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/RAT_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Chorus_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Chorus_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Phaser_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Phaser_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Flanger_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Flanger_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Tape_echo6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Tape_echo6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/SweepEcho_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/SweepEcho_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/DigitalDlay6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/DigitalDlay6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Hall_Reverb6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Hall_Reverb6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Plate_Reverb6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Plate_Reverb6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/dataset_examples/Spring_Reverb_6-0.wav">
+            <source src="/versiones viejas/folder/dataset_examples/Spring_Reverb_6-0.wav">
         </audio>
 </div>
 </div>
