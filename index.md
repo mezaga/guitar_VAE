@@ -93,129 +93,53 @@ We also introduce GUITAR SET a dataset of 8970 real guitar sounds that meticulou
 </div>
 
 ### Reconstruction
+
+
+Original
+![original_reconstruction](https://user-images.githubusercontent.com/92285232/171472384-a29b738b-485f-4d7c-b725-1f305d76410f.png)
+
+Reconstruction
+![final_reconstruction](https://user-images.githubusercontent.com/92285232/171472556-42974d6f-94ac-458d-8216-ba6aabb70255.png)
+
 <div class="figure">
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_DigitalDlay.wav">
+            <source src="folder/dataset_examples/TubeScreamer_6-0.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_bluesdriver.wav">
+            <source src="folder/dataset_examples/BluesDriver_6-0.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_chorus.wav">
+            <source src="folder/dataset_examples/RAT_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_clean.wav">
+            <source src="folder/dataset_examples/Chorus_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_flanger.wav">
+            <source src="folder/dataset_examples/Phaser_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_phaser.wav">
+            <source src="folder/dataset_examples/Flanger_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_rat.wav">
+            <source src="folder/dataset_examples/Tape_echo6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_sweetEcho.wav">
+            <source src="folder/dataset_examples/SweepEcho_6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_tapeEcho.wav">
+            <source src="folder/dataset_examples/DigitalDlay6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/reconstruction/rec_tubescreamer.wav">
+            <source src="folder/dataset_examples/Hall_Reverb6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/dataset_examples/Plate_Reverb6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="folder/dataset_examples/Spring_Reverb_6-0.wav">
         </audio>
 </div>
 </div>
-
-### Latent Space
-![latent_space3D](https://user-images.githubusercontent.com/31640735/170166020-c0ea065d-5237-4534-982e-00393a2cc890.png)
-
-### Latent Space Interpolations
-
-![latent_interpolation](https://user-images.githubusercontent.com/31640735/170180602-5aab303a-35c3-4504-9f6a-371ca5448c8a.png)
-
-
-![interpolation_latentspace_stft](https://user-images.githubusercontent.com/31640735/170180263-49e1e121-0350-4dcf-a731-34eeb23f1d2d.png)
-
-
-
-<div class="figure">
-    <div align ="left">
-
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_1.wav">
-        </audio>
-        
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_2.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_3.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_4.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_5.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_6.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_7.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_8.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_9.wav">
-        </audio>
-        <audio controls style="width: 20%; padding: 0.5%">
-            <source src="folder/inter_10.wav">
-        </audio>
-</div>
-</div>
-
-### Resultados
-
-![Captura de Pantalla 2022-05-25 a la(s) 12 40 48](https://user-images.githubusercontent.com/31640735/170329171-7faf0922-543f-4d64-b1fc-334e172c5fb5.png)
-
-![Captura de Pantalla 2022-05-25 a la(s) 12 41 07](https://user-images.githubusercontent.com/31640735/170329190-55cc36d9-80c4-4d5a-a4fd-a5039d4d68b6.png)
-
-
-<div class="figure">
-    <div align ="left">
-
-<audio controls style="width: 30%; padding: 0.5%">
-            <source src="folder/inter_8.wav">
-        </audio>
-        <audio controls style="width: 30%; padding: 0.5%">
-            <source src="folder/inter_9.wav">
-        </audio>
-</div>
-</div>
-
-
-<div class="figure">
-    <div align ="left">
-        <audio controls style="width: 25%; padding: 0.5%">
-            <source src="folder/1-0ChorusBluesParallel.wav">
-        </audio>
-        <audio controls style="width: 25%; padding: 0.5%">
-            <source src="folder/BD-CH.wav">
-        </audio>
-        <audio controls style="width: 25%; padding: 0.5%">
-            <source src="folder/CH-BD.wav">
-        </audio>
-        
-        </div>
-</div>
-
-
-![RealFX_stft](folder/Figure 1.png)
-
-![RealFX_waveforms](folder/Figure 2.png)
-
