@@ -81,13 +81,13 @@ We also introduce GUITAR SET a dataset of 8970 real guitar sounds that meticulou
             <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/DigitalDlay6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/HallReverb6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/Hall_Reverb6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/PlateReverb6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/Plate_Reverb6-0.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/SpringReverb_6-0.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/Spring_Reverb_6-0.wav">
         </audio>
 </div>
 </div>
@@ -105,41 +105,41 @@ Reconstruction
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_TubeScreamer.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_TubeScreamer.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_BluesDriver.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_BluesDriver.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_RAT.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_RAT.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Chorus.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Chorus.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Phaser.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Phaser.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstructionFlanger.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstructionFlanger.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Tape_echo.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Tape_echo.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Sweep%20Echo.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Sweep%20Echo.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Digital%20Delay.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Digital%20Delay.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Hal%20Reverb.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Hal%20Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Plate_Reverb.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Plate_Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_deconstruction/reconstruction_Spring%20Reverb.wav">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/final_reconstruction/reconstruction_Spring%20Reverb.wav">
         </audio>
 </div>
 </div>
