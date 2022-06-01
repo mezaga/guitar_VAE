@@ -384,3 +384,52 @@ Real Fx
         </audio>
 </div>
 </div>
+
+One Octave Interpolation
+
+![8va_interpolation](https://user-images.githubusercontent.com/92285232/171490694-e69fd34c-eda3-43f7-8854-25cf7248367f.png)
+
+![fft_8va_interpolation](https://user-images.githubusercontent.com/92285232/171490726-5e691dfa-c4ee-48b4-822e-153ccf9f3591.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E30.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E31.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E32.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E33.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E34.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E35.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E36.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E37.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E38.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E39.wav.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E310.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/main/space_exploration/8va%20interpolation/interpolation_8va_E2_E311.wav">
+        </audio>
+</div>
+</div>
