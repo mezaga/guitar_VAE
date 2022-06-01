@@ -105,41 +105,41 @@ Reconstruction
     <div align ="left">
 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_TubeScreamer.wav">
+            <source src="/final_deconstruction/reconstruction_TubeScreamer.wav">
         </audio>
         
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_BluesDriver.wav">
+            <source src="/final_deconstruction/reconstruction_BluesDriver.wav">
         </audio> 
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_RAT.wav">
+            <source src="/final_deconstruction/reconstruction_RAT.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_Chorus.wav">
+            <source src="/final_deconstruction/reconstruction_Chorus.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_Phaser.wav">
+            <source src="/final_deconstruction/reconstruction_Phaser.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstructionFlanger.wav">
+            <source src="/final_deconstruction/reconstructionFlanger.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_Tape_echo.wav">
+            <source src="/final_deconstruction/reconstruction_Tape_echo.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_SweepEcho.wav">
+            <source src="/final_deconstruction/reconstruction_SweepEcho.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_DigitalDlay.wav">
+            <source src="/final_deconstruction/reconstruction_DigitalDlay.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_Hall_Reverb.wav">
+            <source src="/final_deconstruction/reconstruction_Hall_Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_Plate_Reverb.wav">
+            <source src="/final_deconstruction/reconstruction_Plate_Reverb.wav">
         </audio>
         <audio controls style="width: 20%; padding: 0.5%">
-            <source src="final_deconstruction/reconstruction_Spring_Reverb.wav">
+            <source src="/final_deconstruction/reconstruction_Spring_Reverb.wav">
         </audio>
 </div>
 </div>
