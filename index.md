@@ -341,3 +341,46 @@ Sweep Echo - Hall Reverb
         </audio>
 </div>
 </div>
+
+Real Fx
+
+![spectrograms](https://user-images.githubusercontent.com/92285232/171489174-d659aff4-c8bc-4c72-a4db-c4ef10234bed.png)
+
+![waveforms](https://user-images.githubusercontent.com/92285232/171489203-45bc968f-5a94-4576-9fe7-10f238bc37c4.png)
+
+<div class="figure">
+    <div align ="left">
+
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/0-CL-6-0.wav">
+        </audio>
+        
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/0-CL-6-12.wav">
+        </audio> 
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/1-CL-BD-6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/1-CL-BD-6-12.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/2-BD-FL-6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/2-BD-FL-6-12.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/3-FL-DL-6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/3-FL-DL-6-12.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/4-DL-RV-6-0.wav">
+        </audio>
+        <audio controls style="width: 20%; padding: 0.5%">
+            <source src="https://github.com/mezaga/guitar_VAE/raw/bb14bdcd95eb1260a320e5ba2ebb8cd2722e7eb2/analog_fx/4-DL-RV-6-12.wav">
+        </audio>
+</div>
+</div>
